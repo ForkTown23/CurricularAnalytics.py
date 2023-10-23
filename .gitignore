@@ -11,6 +11,6 @@ __pycache__
 *.egg-info
 dist/
 docs/_build
-./venv
+./venv/
 # Temp file created by remove_empty_lines
 *_temp.csv
